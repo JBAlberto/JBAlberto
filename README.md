@@ -1,4 +1,4 @@
-<div align="center"> ## 🚀 JB Alberto | Developer in Training </div>
+## 📈 GitHub Analytics | JBAlberto
 
 <div align="center">
 
@@ -7,7 +7,7 @@
 </div>
 
 
-## 📈 GitHub Analytics
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JBAlberto&theme=tokyonight" />
