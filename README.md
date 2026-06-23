@@ -1,5 +1,5 @@
-## 📈 GitHub Analytics | JBAlberto
-<hr>
+##  GitHub Profile | JBAlberto
+
 ## 🛠️ Tech Stack
 
 <p align="center">
