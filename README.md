@@ -1,6 +1,6 @@
 <div align="center">
 
-# Greetings visitor, I'm JB
+# Greetings, Traveller!
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Front-End+Developer+on +Training;Open+Source+Enthusiast;AI+%7C+Cloud+%7C+Automation;Learning+New+Things" />
 
